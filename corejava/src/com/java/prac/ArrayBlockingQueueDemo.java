@@ -13,7 +13,7 @@ public class ArrayBlockingQueueDemo {
 	ABQ.add(1);
 	ABQ.add(2);
 	ABQ.add(3);
-	//ABQ.add(4);
+	ABQ.add(4);
 	
 	System.out.println(ABQ);
 	
